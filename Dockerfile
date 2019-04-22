@@ -1,1 +1,1 @@
-FROM  gcr.io/google_samples/k8szk:v3
+FROM  quay.io/coreos/grafana-watcher:v0.0.8
