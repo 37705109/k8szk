@@ -1,1 +1,1 @@
-FROM  quay.io/coreos/grafana-watcher:v0.0.8
+FROM  docker.io/bitnami/zookeeper:3.5.5-debian-9-r123
